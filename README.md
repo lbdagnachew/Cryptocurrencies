@@ -4,12 +4,15 @@ The purpose of this project is to use unsupervised machine learning to analyze a
 
 
 
-####Resources
+****##Resources
+
 Data Source: crypto_data.csv
 Software: Software: Python 3.9.7, Anaconda 4.10.3, Jupyter Notebook 6.4.5
 
 
-##Result:
+****##Result:
+
+
 -We have identified the classification of 532 cryptocurrencies based on similarities of their features.
 
 
